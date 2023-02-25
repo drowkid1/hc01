@@ -248,10 +248,10 @@ echo " (5)  PYTHON2"
 echo " (6)  NETCAT"
 echo " (7)  BMON"
 echo " (8)  HTOP"
-echo
+echo -e "\e[0]\e[0m"
 setterm -foreground green
 echo
-echo "              drowkid1. " 
+figlet drowkid1
 echo
 figlet -f digital BY: drowkid1 RS
 echo -e "\e[0]\e[0m"
@@ -265,9 +265,10 @@ echo -e "\e[1;33m[o] SEGUNDO PASO\e[0m"
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[!] ESCRIBE LOS COMANDOS 3 & 4\e[0m"
 echo -e "\e[1;32m[3] Escribe: ls\e[0m"
-echo -e "\e[1;32m[4] Escribe: python2 Real-DNS\e[0m"
+echo -e "\e[1;32m[4] Escribe: python2 hc.sh\e[0m"
+echo -e "\e[0]\e[0m"
 setterm -foreground green 
-figlet -f digital b
+figlet -f digital DK1
 echo -e "\e[1;33m EL CONOCIMIENTO ES LIBRE\e[0m"
 echo
 setterm -foreground green
