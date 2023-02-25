@@ -106,11 +106,11 @@ echo -e "\e[1;35m[!] Usuario Confirmado, Verificación Exitosa\e[0m"
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;35m[!] Hacking Tool, Hacking Masive, Dark Web.. and 9977 tools of hacking installed\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;35m[!] Idioma configurado, español castellano.. (Y/N) Y \e[0m"
+echo -e "\e[1;35m[2] Idioma configurado, español castellano.. (Y/N) Y \e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;35m[!] Perfecto, Digite 'Y' para continuar...!\e[0m"
+echo -e "\e[1;37m[3] Perfecto, Digite 'Y' para continuar...!\e[0m"
 echo
-sleep 15
+sleep 5
 echo "========================================="
 echo
 echo
@@ -248,12 +248,14 @@ echo " (5)  PYTHON2"
 echo " (6)  NETCAT"
 echo " (7)  BMON"
 echo " (8)  HTOP"
-echo -e "\e[0]\e[0m"
+echo
+setterm -foreground cyan
+echo
 setterm -foreground green
 echo
-figlet drowkid1
+echo "              DK1. " 
 echo
-figlet -f digital BY: drowkid1 RS
+figlet -f digital BY: Elite Hackers Company RS
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[o] PRIMER PASO\e[0m"
 echo -e "\e[0]\e[0m"
@@ -266,9 +268,8 @@ echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[!] ESCRIBE LOS COMANDOS 3 & 4\e[0m"
 echo -e "\e[1;32m[3] Escribe: ls\e[0m"
 echo -e "\e[1;32m[4] Escribe: python2 hc.sh\e[0m"
-echo -e "\e[0]\e[0m"
 setterm -foreground green 
-figlet -f digital DK1
+figlet -f digital dk1 DOMINANDO
 echo -e "\e[1;33m EL CONOCIMIENTO ES LIBRE\e[0m"
 echo
 setterm -foreground green
