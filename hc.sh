@@ -20,7 +20,7 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-sleep 2
+sleep 4
 echo -e "\e[1;32m #10%       \e[0m"
 echo -e "\e[1;32m ###20%         \e[0m"
 echo -e "\e[1;32m #####30%        \e[0m"
@@ -41,7 +41,7 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-sleep 2
+sleep 4
 echo -e "\e[1;32m #10%       \e[0m"
 echo -e "\e[1;32m ###20%         \e[0m"
 echo -e "\e[1;32m #####30%        \e[0m"
@@ -62,7 +62,7 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-sleep 2
+sleep 4
 echo -e "\e[1;32m #10%       \e[0m"
 echo -e "\e[1;32m ###20%         \e[0m"
 echo -e "\e[1;32m #####30%        \e[0m"
@@ -83,34 +83,39 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-echo "========================================="
-echo -e "\e[1;33m[!]Powered by: Elite Hackers Company\e[0m"
-echo "========================================="
 
-echo -e "\e[1;33m[!] Este programa es exclusivo para miembros\e[0m"
 echo "========================================="
 echo "========================================="
-echo -e "\e[1;34m[!] Welcome Lalo\e[0m"
+echo -e "\e[1;32m Powered by Elite Hackers Company and Security Private and Servers\e[0m"
+echo "========================================="
+echo "========================================="
+apt update && apt upgrade
+pkg install figlet && setterm -foreground cyan
 figlet ELITE
 figlet HACKERS
 figlet COMPANY
 echo "========================================="
-apt update
-apt upgrade
-pkg install figlet 
+echo "========================================="
+echo -e "\e[1;32m Verify APIkey for user...\e[0m"
+echo "========================================="
+echo "========================================="
+echo -e "\e[1;32m Verify User Correct: 'LALO'_@drowkid1\e[0m"
+echo "========================================="
 echo "========================================="
 echo
-echo -e "\e[1;32m[!] Verificando USUARIO...\e[0m"
+echo -e "\e[1;32m Script exclusive for members actives from Elite Hackers Company\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;35m[!] Usuario Confirmado, Verificación Exitosa\e[0m"
+echo -e "\e[1;33m[!] Search IP... \e[0m"
+echo -e "\e[1;33m[!] MX.. CONFIGURED for SPANISH?\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;35m[!] Hacking Tool, Hacking Masive, Dark Web.. and 9977 tools of hacking installed\e[0m"
+echo -e "\e[1;33m[!] PERFECTO.. IDIOMA CONFIGURADO..\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;35m[2] Idioma configurado, español castellano.. (Y/N) Y \e[0m"
+echo -e "\e[1;33m[!] BASE DE DATOS ACTUALIZANDOSE...\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;37m[3] Perfecto, Digite 'Y' para continuar...!\e[0m"
+echo -e "\e[1;33m[!] Herramientas, Programas, Virus actualizándose\e[0m"
+echo -e "\e[1;33m[!] Hacking Tool, Servidores de IA [inteligencia artificial]\e[0m"
 echo
-sleep 5
+sleep 15
 echo "========================================="
 echo
 echo
@@ -214,19 +219,27 @@ sleep 2
 echo
 echo
 pkg install git
+setterm -foreground blue
+echo "========================================="
+figlet VT1 - DK1
+git clone git clone https://github.com/drowkid1/vt1
+apt upgrade
+echo "========================================="
+echo "========================================="
+
 echo
 setterm -foreground yellow
 echo 
-echo "************* INSTALANDO...!***************"
+echo "************* Instando..!***************"
 echo
-git clone https://github.com/drowkid1/hc01.git
+git clone https://github.com/HackeRStrategy/Real-Scann-DNS.git 
 echo
 setterm -foreground green 
 echo
-echo "AHORA TIENE LAS HERRAMIENTAS INSTALADAS "
+echo "Programa descargado para uso exclusivo de LALO @drowkid1 "
 echo
 setterm -foreground yellow
-echo " HERRAMIENTAS DESCARGADAS"
+echo " ejecutando servers, codes, ports.."
 echo
 setterm -foreground blue
 echo
@@ -251,9 +264,7 @@ echo " (8)  HTOP"
 echo
 setterm -foreground cyan
 echo
-setterm -foreground green
-echo
-echo "              DK1. " 
+echo "              Elite Hackers Company ... " 
 echo
 figlet -f digital BY: Elite Hackers Company RS
 echo -e "\e[0]\e[0m"
@@ -267,10 +278,10 @@ echo -e "\e[1;33m[o] SEGUNDO PASO\e[0m"
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[!] ESCRIBE LOS COMANDOS 3 & 4\e[0m"
 echo -e "\e[1;32m[3] Escribe: ls\e[0m"
-echo -e "\e[1;32m[4] Escribe: python2 hc.sh\e[0m"
+echo -e "\e[1;32m[4] Escribe: python2 Real-DNS\e[0m"
 setterm -foreground green 
-figlet -f digital dk1 DOMINANDO
-echo -e "\e[1;33m EL CONOCIMIENTO ES LIBRE\e[0m"
+figlet -f digital User:_LALO_@drowkid1
+echo -e "\e[1;33m Miembro Activo de Elite Hackers Company\e[0m"
 echo
 setterm -foreground green
 echo "***********************************************"
