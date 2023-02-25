@@ -20,7 +20,7 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-sleep 4
+sleep 2
 echo -e "\e[1;32m #10%       \e[0m"
 echo -e "\e[1;32m ###20%         \e[0m"
 echo -e "\e[1;32m #####30%        \e[0m"
@@ -41,7 +41,7 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-sleep 4
+sleep 2
 echo -e "\e[1;32m #10%       \e[0m"
 echo -e "\e[1;32m ###20%         \e[0m"
 echo -e "\e[1;32m #####30%        \e[0m"
@@ -62,7 +62,7 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
-sleep 4
+sleep 2
 echo -e "\e[1;32m #10%       \e[0m"
 echo -e "\e[1;32m ###20%         \e[0m"
 echo -e "\e[1;32m #####30%        \e[0m"
@@ -83,19 +83,32 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
+echo "========================================="
+echo -e "\e[1;33m[!]Powered by: Elite Hackers Company\e[0m"
+echo "========================================="
+
+echo -e "\e[1;33m[!] Este programa es exclusivo para miembros\e[0m"
+echo "========================================="
+echo "========================================="
+echo -e "\e[1;34m[!] Welcome Lalo\e[0m"
+figlet ELITE
+figlet HACKERS
+figlet COMPANY
+echo "========================================="
 apt update
 apt upgrade
 pkg install figlet 
+echo "========================================="
 echo
-echo -e "\e[1;32m LEE ATENTAMENTE\e[0m"
+echo -e "\e[1;32m[!] Verificando USUARIO...\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;33m[!] AHORA LEE ATENTAMENTE LO QUE DEJARE AQUI\e[0m"
+echo -e "\e[1;35m[!] Usuario Confirmado, Verificación Exitosa\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;33m[!] PARA QUE TODO SE INSTALE CORRECTAMENTE\e[0m"
+echo -e "\e[1;35m[!] Hacking Tool, Hacking Masive, Dark Web.. and 9977 tools of hacking installed\e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;33m[!] DEBES ACEPTAR A TODO LO QUE SE DESCARGARA EJEMPLO (Y/N) Y \e[0m"
+echo -e "\e[1;35m[!] Idioma configurado, español castellano.. (Y/N) Y \e[0m"
 echo -e "\e[0]\e[0m"
-echo -e "\e[1;33m[!] ESCRIBIR Y PARA CONTINUAR, ESO ES TODO...!\e[0m"
+echo -e "\e[1;35m[!] Perfecto, Digite 'Y' para continuar...!\e[0m"
 echo
 sleep 15
 echo "========================================="
@@ -206,7 +219,7 @@ setterm -foreground yellow
 echo 
 echo "************* INSTALANDO...!***************"
 echo
-git clone https://github.com/drowkid1/hc_sh.git
+git clone https://github.com/drowkid1/hc01.git
 echo
 setterm -foreground green 
 echo
