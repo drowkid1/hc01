@@ -89,11 +89,18 @@ echo "========================================="
 echo -e "\e[1;32m Powered by Elite Hackers Company and Security Private and Servers\e[0m"
 echo "========================================="
 echo "========================================="
+pkg install figlet
 apt update && apt upgrade
-pkg install figlet && setterm -foreground cyan
+
+setterm -foreground cyan
+echo
+echo "========================================="
+echo "========================================="
 figlet ELITE
 figlet HACKERS
 figlet COMPANY
+echo "========================================="
+figlet LALO
 echo "========================================="
 echo "========================================="
 echo -e "\e[1;32m Verify APIkey for user...\e[0m"
