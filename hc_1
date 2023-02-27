@@ -89,7 +89,7 @@ echo "========================================="
 echo -e "\e[1;32m Powered by Elite Hackers Company and Security Private and Servers\e[0m"
 echo "========================================="
 echo "========================================="
-apt install figlet
+pkg install figlet
 apt update
 apt upgrade
 echo
